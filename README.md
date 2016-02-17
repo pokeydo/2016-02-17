@@ -1,1 +1,1 @@
-Let's make a merge conflict. 
+MERGE CONFLICT. 
